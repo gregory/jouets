@@ -22,4 +22,5 @@ concord, Mixin to ease compositions under ruby, https://github.com/mbj/concord
 interactor, Interactor provides a common interface for performing complex interactions in a single request., https://github.com/collectiveidea/interactor
 charlatan, Neat delegation for ruby objects,https://github.com/solnic/charlatan
 wisper, Wisper is a Ruby library for decoupling and managing the dependencies of your domain models., https://github.com/krisleech/wisper
+interchange, Facades around interchangeable objects & system boundaries, https://github.com/ahawkins/interchange
 
