@@ -1,0 +1,10 @@
+name, description, link
+jenkins, Jenkins Continuous Integration Server,https://github.com/jenkinsci/jenkins
+errbit, The open source error catcher that's Airbrake API compliant, https://github.com/errbit/errbit
+locomotivecms, a brand new CMS system with super sexy UI and cool features, https://github.com/locomotivecms/engine
+graylog,Search your logs, create charts, send reports and be alerted when something happens.  ,https://github.com/Graylog2/graylog2-server
+discourse, A platform for community discussion, https://github.com/discourse/discourse
+cabot, Self-hosted, easily-deployable monitoring and alerts service, https://github.com/arachnys/cabot
+gitlab, Open source software to collaborate on code, https://github.com/gitlabhq/gitlabhq
+gitlab-ci, Continuous integration server for gitlabhq, https://github.com/gitlabhq/gitlab-ci
+shoes4, build desktop GUI,https://github.com/shoes/shoes4

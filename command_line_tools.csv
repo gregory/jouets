@@ -1,0 +1,4 @@
+name, description, link, language
+bugspot, Implementation of simple bug prediction hotspot heuristic,https://github.com/igrigorik/bugspots
+httpie, HTTPie is a command line HTTP client, a user-friendly cURL replacement, https://github.com/jakubroztocil/httpie
+brakeman, A static analysis security vulnerability scanner for Ruby on Rails applications, https://github.com/presidentbeef/brakeman
