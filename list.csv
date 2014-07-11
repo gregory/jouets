@@ -1,1 +1,2 @@
 name, description, link, language
+pundit, Minimal authorization through OO design and pure Ruby classes, https://github.com/elabs/pundit, ruby
