@@ -1,6 +1,6 @@
 name, description, link, language
 hashie, Hashie is a simple collection of useful Hash extensions., https://github.com/intridea/hashie
-pundit, Minimal authorization through OO design and pure Ruby classes, https://github.com/elabs/pundit, ruby
+pundit, Minimal authorization through OO design and pure Ruby classes, https://github.com/elabs/pundit
 eye, Process monitoring tool. Inspired from Bluepill and God, https://github.com/kostya/eye
 deis, Your PaaS. Your Rules.,https://github.com/deis/deis
 pony, The express way to send mail from Ruby.,https://github.com/benprew/pony
