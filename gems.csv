@@ -1,4 +1,4 @@
-name, description, link, language
+name, description, link
 hashie, Hashie is a simple collection of useful Hash extensions., https://github.com/intridea/hashie
 pundit, Minimal authorization through OO design and pure Ruby classes, https://github.com/elabs/pundit
 eye, Process monitoring tool. Inspired from Bluepill and God, https://github.com/kostya/eye
