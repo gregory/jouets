@@ -10,3 +10,5 @@ gitlab-ci, Continuous integration server for gitlabhq, https://github.com/gitlab
 shoes4, build desktop GUI,https://github.com/shoes/shoes4
 play, your company's dj,https://github.com/play/play
 hubot, A customizable- kegerator-powered life embetterment robot,https://github.com/github/hubot
+logstash, logstash is a tool for managing events and logs. , https://github.com/elasticsearch/logstash
+statsd, Simple daemon for easy stats aggregation, https://github.com/etsy/statsd
