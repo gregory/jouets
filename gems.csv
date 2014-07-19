@@ -24,4 +24,5 @@ charlatan, Neat delegation for ruby objects,https://github.com/solnic/charlatan
 wisper, Wisper is a Ruby library for decoupling and managing the dependencies of your domain models., https://github.com/krisleech/wisper
 interchange, Facades around interchangeable objects & system boundaries, https://github.com/ahawkins/interchange
 workflow, Like acts as state machine (aasm) but _way_ better, https://github.com/geekq/workflow
+logglier, Send logged messages to Loggly using either the HTTP API or Syslog/UDP., https://github.com/freeformz/logglier
 
