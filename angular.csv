@@ -1,2 +1,3 @@
+name, description, link
 satellizer, Token-based AngularJS Authentication, https://github.com/sahat/satellizer
 angular-restmod, Rails inspired REST-API ORM for Angular,  https://github.com/platanus/angular-restmod
