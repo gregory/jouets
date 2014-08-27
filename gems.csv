@@ -26,3 +26,4 @@ interchange, Facades around interchangeable objects & system boundaries, https:/
 workflow, Like acts as state machine (aasm) but _way_ better, https://github.com/geekq/workflow
 logglier, Send logged messages to Loggly using either the HTTP API or Syslog/UDP., https://github.com/freeformz/logglier
 parallel, parallel processing made simple and fast, https://github.com/grosser/parallel
+garner, A set of Rack middleware and cache helpers that implement various caching strategies, https://github.com/artsy/garner
