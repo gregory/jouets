@@ -3,3 +3,4 @@ bugspot, Implementation of simple bug prediction hotspot heuristic,https://githu
 httpie, HTTPie is a command line HTTP client. a user-friendly cURL replacement, https://github.com/jakubroztocil/httpie
 brakeman, A static analysis security vulnerability scanner for Ruby on Rails applications, https://github.com/presidentbeef/brakeman
 tugboat, A command line tool for interacting with your DigitalOcean droplets.,https://github.com/pearkes/tugboat
+wetty, Terminal in browser over http/https ,https://github.com/krishnasrinivas/wetty
