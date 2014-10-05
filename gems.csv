@@ -30,3 +30,4 @@ garner, A set of Rack middleware and cache helpers that implement various cachin
 role_playing, A Ruby implementation of DCI (data - context - interaction) using SimpleDelegator, https://github.com/johnae/role_playing
 asset_sync, Synchronises Assets between Rails and S3, https://github.com/rumblelabs/asset_sync
 minuteman, Fast analytics using Redis, https://github.com/elcuervo/minuteman
+reform, Form objects decoupled from models, https://github.com/apotonick/reform
