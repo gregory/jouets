@@ -31,3 +31,4 @@ role_playing, A Ruby implementation of DCI (data - context - interaction) using 
 asset_sync, Synchronises Assets between Rails and S3, https://github.com/rumblelabs/asset_sync
 minuteman, Fast analytics using Redis, https://github.com/elcuervo/minuteman
 reform, Form objects decoupled from models, https://github.com/apotonick/reform
+high_voltage, Easily include static pages in your Rails app, https://github.com/thoughtbot/high_voltage
