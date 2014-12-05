@@ -5,3 +5,4 @@ brakeman, A static analysis security vulnerability scanner for Ruby on Rails app
 tugboat, A command line tool for interacting with your DigitalOcean droplets.,https://github.com/pearkes/tugboat
 wetty, Terminal in browser over http/https ,https://github.com/krishnasrinivas/wetty
 pre-commit, A slightly improved pre-commit hook for git, https://github.com/jish/pre-commit
+heroku-accounts, Multiple account management for Heroku, https://github.com/ddollar/heroku-accounts
