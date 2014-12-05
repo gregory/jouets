@@ -14,3 +14,4 @@ logstash, logstash is a tool for managing events and logs. , https://github.com/
 statsd, Simple daemon for easy stats aggregation, https://github.com/etsy/statsd
 collectd3, Showing stats with collectd + d3js,https://github.com/StackStorm/collectd3
 sentry,Sentry is a realtime & platform-agnostic error logging and aggregation platform, https://github.com/getsentry/sentry
+fluentd, Fluentd data collector, https://github.com/fluent/fluentd/
