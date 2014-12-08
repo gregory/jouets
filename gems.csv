@@ -33,3 +33,4 @@ minuteman, Fast analytics using Redis, https://github.com/elcuervo/minuteman
 reform, Form objects decoupled from models, https://github.com/apotonick/reform
 high_voltage, Easily include static pages in your Rails app, https://github.com/thoughtbot/high_voltage
 fast_blank, simple extension which provides a fast implementation of active support's string#blank? function, https://github.com/SamSaffron/fast_blank
+excon, Usable - fast - simple HTTP 1.1 for Ruby, https://github.com/excon/excon
