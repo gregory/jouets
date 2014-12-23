@@ -35,3 +35,4 @@ high_voltage, Easily include static pages in your Rails app, https://github.com/
 fast_blank, simple extension which provides a fast implementation of active support's string#blank? function, https://github.com/SamSaffron/fast_blank
 excon, Usable - fast - simple HTTP 1.1 for Ruby, https://github.com/excon/excon
 adamantium, Create immutable objects, https://github.com/dkubb/adamantium
+her, Her is an ORM (Object Relational Mapper) that maps REST resources to Ruby objects, https://github.com/remiprev/her
