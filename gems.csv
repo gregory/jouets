@@ -38,3 +38,4 @@ adamantium, Create immutable objects, https://github.com/dkubb/adamantium
 her, Her is an ORM (Object Relational Mapper) that maps REST resources to Ruby objects, https://github.com/remiprev/her
 faraday-conductivity, Extra Faraday middleware - geared towards a service oriented architecture., https://github.com/yourkarma/faraday-conductivity
 decent_exposure, A helper for creating declarative interfaces in controllers, https://github.com/hashrocket/decent_exposure/
+spyke, Interact with REST services in an ActiveRecord-like manner,https://github.com/balvig/spyke
