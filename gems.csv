@@ -42,3 +42,4 @@ spyke, Interact with REST services in an ActiveRecord-like manner,https://github
 concord, Mixin to ease compositions under ruby, https://github.com/mbj/concord
 lopu, Includes Enumerable and provides an #each method for ruby objects, https://github.com/snusnu/lupo
 micromachine, Minimal Finite State Machine, https://github.com/soveran/micromachine
+remote_lock, Remote lock with memcache & redis support, https://github.com/HouseTrip/remote_lock
