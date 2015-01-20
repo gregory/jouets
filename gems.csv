@@ -45,3 +45,5 @@ micromachine, Minimal Finite State Machine, https://github.com/soveran/micromach
 remote_lock, Remote lock with memcache & redis support, https://github.com/HouseTrip/remote_lock
 anima, Object initializer from attributes hash, https://github.com/mbj/anima
 casting, Delegate methods in Ruby and preserve self. Add behaviors to your objects without altering their superclass heirarchy, https://github.com/saturnflyer/casting
+conduit, An event store for Ruby, https://github.com/krisleech/conduit
+isopod, Simple dependency injection for Ruby objects, https://github.com/krisleech/isopod
