@@ -39,3 +39,6 @@ her, Her is an ORM (Object Relational Mapper) that maps REST resources to Ruby o
 faraday-conductivity, Extra Faraday middleware - geared towards a service oriented architecture., https://github.com/yourkarma/faraday-conductivity
 decent_exposure, A helper for creating declarative interfaces in controllers, https://github.com/hashrocket/decent_exposure/
 spyke, Interact with REST services in an ActiveRecord-like manner,https://github.com/balvig/spyke
+concord, Mixin to ease compositions under ruby, https://github.com/mbj/concord
+lopu, Includes Enumerable and provides an #each method for ruby objects, https://github.com/snusnu/lupo
+micromachine, Minimal Finite State Machine, https://github.com/soveran/micromachine
