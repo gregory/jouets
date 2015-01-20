@@ -43,3 +43,5 @@ concord, Mixin to ease compositions under ruby, https://github.com/mbj/concord
 lopu, Includes Enumerable and provides an #each method for ruby objects, https://github.com/snusnu/lupo
 micromachine, Minimal Finite State Machine, https://github.com/soveran/micromachine
 remote_lock, Remote lock with memcache & redis support, https://github.com/HouseTrip/remote_lock
+anima, Object initializer from attributes hash, https://github.com/mbj/anima
+casting, Delegate methods in Ruby and preserve self. Add behaviors to your objects without altering their superclass heirarchy, https://github.com/krisleech/casting
