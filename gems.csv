@@ -47,3 +47,4 @@ anima, Object initializer from attributes hash, https://github.com/mbj/anima
 casting, Delegate methods in Ruby and preserve self. Add behaviors to your objects without altering their superclass heirarchy, https://github.com/saturnflyer/casting
 conduit, An event store for Ruby, https://github.com/krisleech/conduit
 isopod, Simple dependency injection for Ruby objects, https://github.com/krisleech/isopod
+direction, Forward messages to collaborators in East-oriented style., https://github.com/saturnflyer/direction
