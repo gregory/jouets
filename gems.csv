@@ -49,3 +49,4 @@ conduit, An event store for Ruby, https://github.com/krisleech/conduit
 isopod, Simple dependency injection for Ruby objects, https://github.com/krisleech/isopod
 direction, Forward messages to collaborators in East-oriented style., https://github.com/saturnflyer/direction
 virtus,Attributes on Steroids for Plain Old Ruby Objects ,https://github.com/solnic/virtus
+cell,View Components for Rails, https://github.com/apotonick/cells
