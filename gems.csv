@@ -49,3 +49,4 @@ virtus,Attributes on Steroids for Plain Old Ruby Objects ,https://github.com/sol
 cell,View Components for Rails, https://github.com/apotonick/cells
 locality-uuid, UUID class intended to help control data locality when inserting into a distributed data system, https://github.com/groupon/locality-uuid.rb
 redis-objects, Map Redis types directly to Ruby objects, https://github.com/nateware/redis-objects
+vanguard, External validations for ruby objects, https://github.com/mbj/vanguard
