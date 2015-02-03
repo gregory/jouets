@@ -50,3 +50,5 @@ cell,View Components for Rails, https://github.com/apotonick/cells
 locality-uuid, UUID class intended to help control data locality when inserting into a distributed data system, https://github.com/groupon/locality-uuid.rb
 redis-objects, Map Redis types directly to Ruby objects, https://github.com/nateware/redis-objects
 vanguard, External validations for ruby objects, https://github.com/mbj/vanguard
+eldritch, A ruby DSL that adds concurrent programming constructs to make parallelism easier , https://github.com/beraboris/eldritch
+adamantium, Create immutable objects, https://github.com/dkubb/adamantium
