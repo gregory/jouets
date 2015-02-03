@@ -16,3 +16,4 @@ collectd3, Showing stats with collectd + d3js,https://github.com/StackStorm/coll
 sentry,Sentry is a realtime & platform-agnostic error logging and aggregation platform, https://github.com/getsentry/sentry
 fluentd, Fluentd data collector, https://github.com/fluent/fluentd/
 rehook, Webhook dispatcher, https://github.com/gophergala/rehook
+dnsp, dns proxy, https://github.com/gophergala/dnsp
