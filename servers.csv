@@ -17,3 +17,4 @@ sentry,Sentry is a realtime & platform-agnostic error logging and aggregation pl
 fluentd, Fluentd data collector, https://github.com/fluent/fluentd/
 rehook, Webhook dispatcher, https://github.com/gophergala/rehook
 dnsp, dns proxy, https://github.com/gophergala/dnsp
+prometheus, The Prometheus monitoring system and time series database, https://github.com/prometheus/prometheus
