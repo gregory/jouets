@@ -7,3 +7,4 @@ wetty, Terminal in browser over http/https ,https://github.com/krishnasrinivas/w
 pre-commit, A slightly improved pre-commit hook for git, https://github.com/jish/pre-commit
 heroku-accounts, Multiple account management for Heroku, https://github.com/ddollar/heroku-accounts
 dshell, Dshell is a network forensic analysis framework, https://github.com/USArmyResearchLab/Dshell
+selecta, A fuzzy text selector for files and anything else you need to select, https://github.com/garybernhardt/selecta
