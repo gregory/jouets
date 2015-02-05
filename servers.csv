@@ -18,3 +18,4 @@ fluentd, Fluentd data collector, https://github.com/fluent/fluentd/
 rehook, Webhook dispatcher, https://github.com/gophergala/rehook
 dnsp, dns proxy, https://github.com/gophergala/dnsp
 prometheus, The Prometheus monitoring system and time series database, https://github.com/prometheus/prometheus
+mailcatcher, Catches mail and serves it through a dream ,https://github.com/sj26/mailcatcher
