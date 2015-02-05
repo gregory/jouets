@@ -9,3 +9,4 @@ heroku-accounts, Multiple account management for Heroku, https://github.com/ddol
 dshell, Dshell is a network forensic analysis framework, https://github.com/USArmyResearchLab/Dshell
 selecta, A fuzzy text selector for files and anything else you need to select, https://github.com/garybernhardt/selecta
 stackprof, a sampling call-stack profiler for ruby 2.1, https://github.com/tmm1/stackprof
+rbtrace, like strace, but for ruby code, https://github.com/tmm1/rbtrace
