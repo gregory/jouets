@@ -53,3 +53,4 @@ vanguard, External validations for ruby objects, https://github.com/mbj/vanguard
 eldritch, A ruby DSL that adds concurrent programming constructs to make parallelism easier , https://github.com/beraboris/eldritch
 adamantium, Create immutable objects, https://github.com/dkubb/adamantium
 json-schema, Ruby JSON Schema Validator, https://github.com/ruby-json-schema/json-schema
+octopus, Database Sharding for ActiveRecord, https://github.com/tchandy/octopus
