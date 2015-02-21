@@ -56,3 +56,4 @@ json-schema, Ruby JSON Schema Validator, https://github.com/ruby-json-schema/jso
 octopus, Database Sharding for ActiveRecord, https://github.com/tchandy/octopus
 cobweb, Web crawler with very flexible crawling options, https://github.com/stewartmckee/cobweb
 websocket-rails, Plug and play websocket support for ruby on rails, https://github.com/websocket-rails/websocket-rails
+tubesock, Websocket interface on Rack Hijack w/ Rails support, https://github.com/ngauthier/tubesock
