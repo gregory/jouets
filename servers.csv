@@ -21,3 +21,4 @@ prometheus, The Prometheus monitoring system and time series database, https://g
 mailcatcher, Catches mail and serves it through a dream ,https://github.com/sj26/mailcatcher
 lets-chat, Self-hosted chat app for small teams, https://github.com/sdelements/lets-chat
 websocketd, Turn any program that uses STDIN/STDOUT into a WebSocket server , https://github.com/joewalnes/websocketd
+licode, Open Source Communication Provider based on WebRTC and Cloud technologies, https://github.com/ging/licode
