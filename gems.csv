@@ -67,3 +67,4 @@ rails-erd, Generate Entity-Relationship Diagrams for Rails applications ,https:/
 biz, Time calculations using business hours, https://github.com/zendesk/biz
 elastics, the ultimate ruby tools for elasticsearch, https://github.com/elastics/elastics
 sponges, Turn any Ruby object into a daemon controlling an army of sponges, https://github.com/AF83/sponges
+whenever, Cron jobs in Ruby, https://github.com/javan/whenever
