@@ -63,3 +63,4 @@ websocket-driver-ruby, WebSocket protocol handler with pluggable I/O, https://gi
 faye, Simple pub/sub messaging for the web, https://github.com/faye/faye
 cells, Components for Rails, https://github.com/apotonick/cells
 fasterer, Don't make your Rubies go fast. Make them go fastere ,https://github.com/DamirSvrtan/fasterer
+rails-erd, Generate Entity-Relationship Diagrams for Rails applications ,https://github.com/voormedia/rails-erd
