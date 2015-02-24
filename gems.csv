@@ -66,3 +66,4 @@ fasterer, Don't make your Rubies go fast. Make them go fastere ,https://github.c
 rails-erd, Generate Entity-Relationship Diagrams for Rails applications ,https://github.com/voormedia/rails-erd
 biz, Time calculations using business hours, https://github.com/zendesk/biz
 elastics, the ultimate ruby tools for elasticsearch, https://github.com/elastics/elastics
+sponges, Turn any Ruby object into a daemon controlling an army of sponges, https://github.com/AF83/sponges
