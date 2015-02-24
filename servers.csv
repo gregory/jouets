@@ -23,3 +23,4 @@ lets-chat, Self-hosted chat app for small teams, https://github.com/sdelements/l
 websocketd, Turn any program that uses STDIN/STDOUT into a WebSocket server , https://github.com/joewalnes/websocketd
 licode, Open Source Communication Provider based on WebRTC and Cloud technologies, https://github.com/ging/licode
 drone, Drone is a Continuous Integration platform built on Docker, https://github.com/drone/drone
+influxdb, Scalable datastore for metrics - events - and real-time analytics, https://github.com/influxdb/influxdb
