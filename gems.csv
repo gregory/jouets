@@ -62,3 +62,4 @@ palava-machine, WebRTC Signaling done in Ruby, https://github.com/palavatv/palav
 websocket-driver-ruby, WebSocket protocol handler with pluggable I/O, https://github.com/faye/websocket-driver-ruby
 faye, Simple pub/sub messaging for the web, https://github.com/faye/faye
 cells, Components for Rails, https://github.com/apotonick/cells
+fasterer, Don't make your Rubies go fast. Make them go fastere ,https://github.com/DamirSvrtan/fasterer
