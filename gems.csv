@@ -69,3 +69,4 @@ elastics, the ultimate ruby tools for elasticsearch, https://github.com/elastics
 sponges, Turn any Ruby object into a daemon controlling an army of sponges, https://github.com/AF83/sponges
 whenever, Cron jobs in Ruby, https://github.com/javan/whenever
 arproxy, Arproxy is a proxy between ActiveRecord and database adapter, https://github.com/cookpad/arproxy
+gon, Your Rails variables in your JS, https://github.com/gazay/gon
