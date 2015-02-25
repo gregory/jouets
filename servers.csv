@@ -24,3 +24,4 @@ websocketd, Turn any program that uses STDIN/STDOUT into a WebSocket server , ht
 licode, Open Source Communication Provider based on WebRTC and Cloud technologies, https://github.com/ging/licode
 drone, Drone is a Continuous Integration platform built on Docker, https://github.com/drone/drone
 influxdb, Scalable datastore for metrics - events - and real-time analytics, https://github.com/influxdb/influxdb
+beanstalkd, Beanstalk is a simple and fast work queue ,https://github.com/kr/beanstalkd
