@@ -70,3 +70,4 @@ sponges, Turn any Ruby object into a daemon controlling an army of sponges, http
 whenever, Cron jobs in Ruby, https://github.com/javan/whenever
 arproxy, Arproxy is a proxy between ActiveRecord and database adapter, https://github.com/cookpad/arproxy
 gon, Your Rails variables in your JS, https://github.com/gazay/gon
+krakow, Ruby client library for NSQ, https://github.com/chrisroberts/krakow
