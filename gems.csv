@@ -71,3 +71,4 @@ whenever, Cron jobs in Ruby, https://github.com/javan/whenever
 arproxy, Arproxy is a proxy between ActiveRecord and database adapter, https://github.com/cookpad/arproxy
 gon, Your Rails variables in your JS, https://github.com/gazay/gon
 krakow, Ruby client library for NSQ, https://github.com/chrisroberts/krakow
+routemaster, HTTP Event Bus for event-driven REST architectures, https://github.com/HouseTrip/routemaster
