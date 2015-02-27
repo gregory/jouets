@@ -74,3 +74,4 @@ krakow, Ruby client library for NSQ, https://github.com/chrisroberts/krakow
 routemaster, HTTP Event Bus for event-driven REST architectures, https://github.com/HouseTrip/routemaster
 formatador, STDOUT text formatting, https://github.com/geemus/formatador
 diffy, Easy Diffing in Ruby, https://github.com/samg/diffy
+dotgpg, secure and easy-to-use store for your production secrets, https://github.com/ConradIrwin/dotgpg
