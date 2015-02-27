@@ -13,3 +13,4 @@ rbtrace, like strace but for ruby code, https://github.com/tmm1/rbtrace
 parallel,shell tool for executing jobs in parallel using one or more computers,  http://www.gnu.org/software/parallel/
 stenographer, Stenographer is a packet capture solutio, https://github.com/google/stenographer
 timetrap, Simple command line timetracker, https://github.com/samg/timetrap
+myvim, Script to create a portable bundle of Vim environment, https://github.com/junegunn/myvim
