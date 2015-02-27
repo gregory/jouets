@@ -73,3 +73,4 @@ gon, Your Rails variables in your JS, https://github.com/gazay/gon
 krakow, Ruby client library for NSQ, https://github.com/chrisroberts/krakow
 routemaster, HTTP Event Bus for event-driven REST architectures, https://github.com/HouseTrip/routemaster
 formatador, STDOUT text formatting, https://github.com/geemus/formatador
+diffy, Easy Diffing in Ruby, https://github.com/samg/diffy
