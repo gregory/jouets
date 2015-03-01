@@ -10,3 +10,4 @@ bookmark of libs and gems i like
 * [80 linux monitoring tools](https://blog.serverdensity.com/80-linux-monitoring-tools-know)
 * [minimal docker containers](https://github.com/mini-containers)
 * [minimal docker base image](https://github.com/gliderlabs/docker-alpine)
+* [Some HTML, CSS and JS best practices](https://github.com/bendc/frontend-guidelines)
