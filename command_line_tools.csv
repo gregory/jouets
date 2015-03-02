@@ -14,3 +14,5 @@ parallel,shell tool for executing jobs in parallel using one or more computers, 
 stenographer, Stenographer is a packet capture solutio, https://github.com/google/stenographer
 timetrap, Simple command line timetracker, https://github.com/samg/timetrap
 myvim, Script to create a portable bundle of Vim environment, https://github.com/junegunn/myvim
+lunchy, A friendly wrapper for launchctl, https://github.com/eddiezane/lunchy
+dotjs, ~/.js, https://github.com/defunkt/dotjs
