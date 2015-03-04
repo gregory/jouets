@@ -75,3 +75,4 @@ routemaster, HTTP Event Bus for event-driven REST architectures, https://github.
 formatador, STDOUT text formatting, https://github.com/geemus/formatador
 diffy, Easy Diffing in Ruby, https://github.com/samg/diffy
 dotgpg, secure and easy-to-use store for your production secrets, https://github.com/ConradIrwin/dotgpg
+renv, Manages .env files stored in S3, https://github.com/HouseTrip/renv
