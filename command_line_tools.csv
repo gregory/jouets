@@ -16,3 +16,6 @@ timetrap, Simple command line timetracker, https://github.com/samg/timetrap
 myvim, Script to create a portable bundle of Vim environment, https://github.com/junegunn/myvim
 lunchy, A friendly wrapper for launchctl, https://github.com/eddiezane/lunchy
 dotjs, ~/.js, https://github.com/defunkt/dotjs
+vegeta, HTTP load testing tool and library, https://github.com/tsenart/vegeta
+consul, Consul is a tool for service discovery and monitoring and configuration ,https://github.com/hashicorp/consul
+kubernetes, Container Cluster Manager, https://github.com/GoogleCloudPlatform/kubernetes
