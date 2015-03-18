@@ -11,3 +11,4 @@ bookmark of libs and gems i like
 * [minimal docker containers](https://github.com/mini-containers)
 * [minimal docker base image](https://github.com/gliderlabs/docker-alpine)
 * [Some HTML, CSS and JS best practices](https://github.com/bendc/frontend-guidelines)
+* [awesome-sysadmin] https://github.com/kahun/awesome-sysadmin
