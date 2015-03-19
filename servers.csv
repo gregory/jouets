@@ -27,4 +27,5 @@ influxdb, Scalable datastore for metrics - events - and real-time analytics, htt
 beanstalkd, Beanstalk is a simple and fast work queue ,https://github.com/kr/beanstalkd
 cayley, An open-source graph database, https://github.com/google/cayley
 virtkick, A simple orchestrator. Manage virtual machines or Docker containers easily, https://github.com/virtkick/virtkick
+hipache, Hipache: a distributed HTTP and websocket proxy, https://github.com/hipache/hipache
 
