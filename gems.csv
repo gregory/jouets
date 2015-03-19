@@ -79,3 +79,4 @@ renv, Manages .env files stored in S3, https://github.com/HouseTrip/renv
 searchkick, Intelligent search made easy , https://github.com/ankane/searchkick
 chartkick, Create beautiful Javascript charts with one line of Ruby, https://github.com/ankane/chartkick
 circuitbox, Circuit breaker built with large Ruby apps in mind, https://github.com/yammer/circuitbox
+tolk, Web interface for doing i18n translations packaged as an engine, https://github.com/tolk/tolk
