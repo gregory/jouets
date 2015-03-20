@@ -82,3 +82,4 @@ circuitbox, Circuit breaker built with large Ruby apps in mind, https://github.c
 tolk, Web interface for doing i18n translations packaged as an engine, https://github.com/tolk/tolk
 disposable, Decorators on top of your ORM layer, https://github.com/apotonick/disposable
 fdoc, Documentation format and verification, https://github.com/square/fdoc
+trebuchet, Trebuchet launches features at people, https://github.com/airbnb/trebuchet
