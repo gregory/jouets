@@ -84,3 +84,4 @@ disposable, Decorators on top of your ORM layer, https://github.com/apotonick/di
 fdoc, Documentation format and verification, https://github.com/square/fdoc
 trebuchet, Trebuchet launches features at people, https://github.com/airbnb/trebuchet
 rails_panel, Chrome extension for Rails development,  https://github.com/dejan/rails_panel
+wicked_pdf, PDF generator (from HTML) plugin for Ruby on Rails, https://github.com/mileszs/wicked_pdf
