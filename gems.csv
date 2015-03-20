@@ -83,3 +83,4 @@ tolk, Web interface for doing i18n translations packaged as an engine, https://g
 disposable, Decorators on top of your ORM layer, https://github.com/apotonick/disposable
 fdoc, Documentation format and verification, https://github.com/square/fdoc
 trebuchet, Trebuchet launches features at people, https://github.com/airbnb/trebuchet
+rails_panel, Chrome extension for Rails development,  https://github.com/dejan/rails_panel
