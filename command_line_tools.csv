@@ -19,3 +19,4 @@ dotjs, ~/.js, https://github.com/defunkt/dotjs
 vegeta, HTTP load testing tool and library, https://github.com/tsenart/vegeta
 consul, Consul is a tool for service discovery and monitoring and configuration ,https://github.com/hashicorp/consul
 kubernetes, Container Cluster Manager, https://github.com/GoogleCloudPlatform/kubernetes
+radare2, unix-like reverse engineering framework and commandline tools, https://github.com/radare/radare2
