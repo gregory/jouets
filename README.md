@@ -14,3 +14,4 @@ bookmark of libs and gems i like
 * [docker-infra images] (https://github.com/docker-infra)
 * [Some HTML, CSS and JS best practices](https://github.com/bendc/frontend-guidelines)
 * [awesome-sysadmin] (https://github.com/kahun/awesome-sysadmin)
+* [http API style guide](https://github.com/gocardless/http-api-design)
