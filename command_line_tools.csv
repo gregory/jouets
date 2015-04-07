@@ -1,4 +1,6 @@
 name, description, link
+prmd, JSON Schema tools and doc generation for HTTP APIs, https://github.com/interagent/prmd
+heroics, Ruby HTTP client for APIs represented with JSON schema, https://github.com/interagent/heroics
 bugspot, Implementation of simple bug prediction hotspot heuristic,https://github.com/igrigorik/bugspots
 httpie, HTTPie is a command line HTTP client. a user-friendly cURL replacement, https://github.com/jakubroztocil/httpie
 brakeman, A static analysis security vulnerability scanner for Ruby on Rails applications, https://github.com/presidentbeef/brakeman
