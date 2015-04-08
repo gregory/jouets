@@ -90,3 +90,4 @@ apivore, Automatically tests your rails API against its Swagger description, htt
 valid_email, Active Model Validations for Email using mail gem, https://github.com/hallelujah/valid_email
 formatador, STDOUT text formatting, https://github.com/geemus/formatador
 rjr, json-rpc server/client mechanisms over different protocols , https://github.com/movitto/rjr
+fabrication, Implementing the factory pattern in Ruby so you don't have to, https://github.com/paulelliott/fabrication
