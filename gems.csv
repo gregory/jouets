@@ -89,3 +89,4 @@ concurrent-ruby, Modern concurrency tools, https://github.com/ruby-concurrency/c
 apivore, Automatically tests your rails API against its Swagger description, https://github.com/westfieldlabs/apivore
 valid_email, Active Model Validations for Email using mail gem, https://github.com/hallelujah/valid_email
 formatador, STDOUT text formatting, https://github.com/geemus/formatador
+rjr, json-rpc server/client mechanisms over different protocols , https://github.com/movitto/rjr
