@@ -93,3 +93,4 @@ rjr, json-rpc server/client mechanisms over different protocols , https://github
 fabrication, Implementing the factory pattern in Ruby so you don't have to, https://github.com/paulelliott/fabrication
 volt, A Ruby web framework where your Ruby runs on both server and client, https://github.com/voltrb/volt
 lhm, Online MySQL schema migrations, https://github.com/soundcloud/lhm
+grape-batch, Rack middleware which extends Grape::API to support request batching, https://github.com/c4mprod/grape-batch
