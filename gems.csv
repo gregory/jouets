@@ -95,3 +95,4 @@ volt, A Ruby web framework where your Ruby runs on both server and client, https
 lhm, Online MySQL schema migrations, https://github.com/soundcloud/lhm
 grape-batch, Rack middleware which extends Grape::API to support request batching, https://github.com/c4mprod/grape-batch
 rubydns, RubyDNS is a tool that allows you to intercept and modify DNS requests, https://github.com/ioquatix/rubydns
+json-jwt, JSON Web Token and its family, https://github.com/nov/json-jwt
