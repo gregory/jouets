@@ -98,3 +98,4 @@ rubydns, RubyDNS is a tool that allows you to intercept and modify DNS requests,
 json-jwt, JSON Web Token and its family, https://github.com/nov/json-jwt
 seedbank, Seeds management the right way, https://github.com/james2m/seedbank
 sucker_punch, Sucker Punch is a single-process Ruby asynchronous processing library, https://github.com/brandonhilkert/sucker_punch
+sidekiq, Simple & efficient background processing for Ruby, https://github.com/mperham/sidekiq
