@@ -101,3 +101,4 @@ sucker_punch, Sucker Punch is a single-process Ruby asynchronous processing libr
 sidekiq, Simple & efficient background processing for Ruby, https://github.com/mperham/sidekiq
 webmachine-ruby, Webmachine - the HTTP toolkit, https://github.com/seancribbs/webmachine-ruby
 lotus, A complete web framework for Ruby, https://github.com/lotus/
+attestor, Validations and policies for immutable Ruby objects, https://github.com/nepalez/attestor
