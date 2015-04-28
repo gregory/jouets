@@ -102,3 +102,4 @@ sidekiq, Simple & efficient background processing for Ruby, https://github.com/m
 webmachine-ruby, Webmachine - the HTTP toolkit, https://github.com/seancribbs/webmachine-ruby
 lotus, A complete web framework for Ruby, https://github.com/lotus/
 attestor, Validations and policies for immutable Ruby objects, https://github.com/nepalez/attestor
+sprockets, Rack-based asset packaging system, https://github.com/sstephenson/sprockets
