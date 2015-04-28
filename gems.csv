@@ -103,3 +103,5 @@ webmachine-ruby, Webmachine - the HTTP toolkit, https://github.com/seancribbs/we
 lotus, A complete web framework for Ruby, https://github.com/lotus/
 attestor, Validations and policies for immutable Ruby objects, https://github.com/nepalez/attestor
 sprockets, Rack-based asset packaging system, https://github.com/sstephenson/sprockets
+warden, General Rack Authentication Framework, https://github.com/hassox/warden
+rack-protection, This gem protects against typical web attacks, https://github.com/sinatra/rack-protection
