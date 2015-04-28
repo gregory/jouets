@@ -24,3 +24,4 @@ kubernetes, Container Cluster Manager, https://github.com/GoogleCloudPlatform/ku
 radare2, unix-like reverse engineering framework and commandline tools, https://github.com/radare/radare2
 termsql, Convert text from a file or from stdin into SQL table and query it instantly, https://github.com/tobimensch/termsql
 wemux, Multi-User Tmux Made Easy, https://github.com/zolrath/wemux
+hutils, A collection of command line utilities for working with logfmt, https://github.com/brandur/hutils
