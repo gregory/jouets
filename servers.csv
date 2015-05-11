@@ -29,4 +29,5 @@ cayley, An open-source graph database, https://github.com/google/cayley
 virtkick, A simple orchestrator. Manage virtual machines or Docker containers easily, https://github.com/virtkick/virtkick
 hipache, Hipache: a distributed HTTP and websocket proxy, https://github.com/hipache/hipache
 vulcand, Programmatic load balancer backed by Etcd, https://github.com/mailgun/vulcand
+json-server, Get a full fake REST API with zero coding in less than 30 seconds, https://github.com/typicode/json-server
 
