@@ -106,4 +106,5 @@ sprockets, Rack-based asset packaging system, https://github.com/sstephenson/spr
 warden, General Rack Authentication Framework, https://github.com/hassox/warden
 omniauth, OmniAuth is a flexible authentication system utilizing Rack middleware., https://github.com/intridea/omniauth
 rack-protection, This gem protects against typical web attacks, https://github.com/sinatra/rack-protection
+angelo, Sinatra-like DSL for Reel that supports WebSockets and SSE, https://github.com/kenichi/angelo
 
