@@ -107,4 +107,4 @@ warden, General Rack Authentication Framework, https://github.com/hassox/warden
 omniauth, OmniAuth is a flexible authentication system utilizing Rack middleware., https://github.com/intridea/omniauth
 rack-protection, This gem protects against typical web attacks, https://github.com/sinatra/rack-protection
 angelo, Sinatra-like DSL for Reel that supports WebSockets and SSE, https://github.com/kenichi/angelo
-
+oat, Adapters-based API serializers with Hypermedia support for Ruby apps, https://github.com/ismasan/oat
