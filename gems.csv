@@ -108,3 +108,4 @@ omniauth, OmniAuth is a flexible authentication system utilizing Rack middleware
 rack-protection, This gem protects against typical web attacks, https://github.com/sinatra/rack-protection
 angelo, Sinatra-like DSL for Reel that supports WebSockets and SSE, https://github.com/kenichi/angelo
 oat, Adapters-based API serializers with Hypermedia support for Ruby apps, https://github.com/ismasan/oat
+rspec_api_documentation, Automatically generate API documentation from RSpec, https://github.com/zipmark/rspec_api_documentation
