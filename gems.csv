@@ -101,7 +101,8 @@ sucker_punch, Sucker Punch is a single-process Ruby asynchronous processing libr
 sidekiq, Simple & efficient background processing for Ruby, https://github.com/mperham/sidekiq
 webmachine-ruby, Webmachine - the HTTP toolkit, https://github.com/seancribbs/webmachine-ruby
 lotus, A complete web framework for Ruby, https://github.com/lotus/
-attestor, Validations and policies for immutable Ruby objects, https://github.com/nepalez/attestor
+
+assertion, Immutable assertions and validations for PORO, https://github.com/nepalez/assertion
 sprockets, Rack-based asset packaging system, https://github.com/sstephenson/sprockets
 warden, General Rack Authentication Framework, https://github.com/hassox/warden
 omniauth, OmniAuth is a flexible authentication system utilizing Rack middleware., https://github.com/intridea/omniauth
