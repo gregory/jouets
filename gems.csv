@@ -112,3 +112,4 @@ oat, Adapters-based API serializers with Hypermedia support for Ruby apps, https
 rspec_api_documentation, Automatically generate API documentation from RSpec, https://github.com/zipmark/rspec_api_documentation
 secureheaders, Security related headers all in one gem, https://github.com/twitter/secureheaders
 selector, Composable conditions, https://github.com/nepalez/selector
+RxRuby, Reactive Extensions for Ruby, https://github.com/ReactiveX/RxRuby
