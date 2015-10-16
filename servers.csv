@@ -32,3 +32,4 @@ vulcand, Programmatic load balancer backed by Etcd, https://github.com/mailgun/v
 json-server, Get a full fake REST API with zero coding in less than 30 seconds, https://github.com/typicode/json-server
 virtkick, SaaS hosting platform control panel. ,https://github.com/virtkick/
 slate, Beautiful static documentation for your API, https://github.com/tripit/slate
+mattermost, Open source Slack-alternative in Golang and React, https://github.com/mattermost/platform
