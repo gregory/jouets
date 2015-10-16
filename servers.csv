@@ -31,4 +31,4 @@ hipache, Hipache: a distributed HTTP and websocket proxy, https://github.com/hip
 vulcand, Programmatic load balancer backed by Etcd, https://github.com/mailgun/vulcand
 json-server, Get a full fake REST API with zero coding in less than 30 seconds, https://github.com/typicode/json-server
 virtkick, SaaS hosting platform control panel. ,https://github.com/virtkick/
-
+slate, Beautiful static documentation for your API, https://github.com/tripit/slate
