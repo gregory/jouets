@@ -1,0 +1,6 @@
+name, description, link
+scheduler, Advanced Scheduling for Docker and Tutum.co, https://github.com/Sillelien/scheduler
+dray, An engine for managing the execution of container-based workflows. http://Dray.it, https://github.com/CenturyLinkLabs/dray
+ctlc-docker-amb-etcd, Docker Ambassador with Etcd registration built-in, https://github.com/CenturyLinkLabs/ctlc-docker-amb-etcd
+nginx-confd-etcd, Docker container for configured nginx based on etcd and registrator, https://github.com/tarhelypark/nginx-confd-etcd
+vulcand, Programmatic load balancer backed by Etcd https://vulcand.io, https://github.com/mailgun/vulcand
