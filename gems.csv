@@ -113,3 +113,4 @@ rspec_api_documentation, Automatically generate API documentation from RSpec, ht
 secureheaders, Security related headers all in one gem, https://github.com/twitter/secureheaders
 selector, Composable conditions, https://github.com/nepalez/selector
 RxRuby, Reactive Extensions for Ruby, https://github.com/ReactiveX/RxRuby
+administrate, A Rails engine that helps you put together a super-flexible admin dashboard, https://github.com/thoughtbot/administrate
