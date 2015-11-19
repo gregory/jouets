@@ -114,3 +114,4 @@ secureheaders, Security related headers all in one gem, https://github.com/twitt
 selector, Composable conditions, https://github.com/nepalez/selector
 RxRuby, Reactive Extensions for Ruby, https://github.com/ReactiveX/RxRuby
 administrate, A Rails engine that helps you put together a super-flexible admin dashboard, https://github.com/thoughtbot/administrate
+stoplight, Traffic control for code, https://github.com/orgsync/stoplight
