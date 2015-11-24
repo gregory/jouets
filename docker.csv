@@ -5,3 +5,4 @@ ctlc-docker-amb-etcd, Docker Ambassador with Etcd registration built-in, https:/
 nginx-confd-etcd, Docker container for configured nginx based on etcd and registrator, https://github.com/tarhelypark/nginx-confd-etcd
 vulcand, Programmatic load balancer backed by Etcd https://vulcand.io, https://github.com/mailgun/vulcand
 mattermost, Open source Slack-alternative in Golang and React, https://github.com/mattermost/platform
+docker-zipkin, Docker images for OpenZipkin, https://github.com/openzipkin/docker-zipkin
