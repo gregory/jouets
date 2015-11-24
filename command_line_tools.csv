@@ -27,3 +27,4 @@ wemux, Multi-User Tmux Made Easy, https://github.com/zolrath/wemux
 hutils, A collection of command line utilities for working with logfmt, https://github.com/brandur/hutils
 the_silver_searcher, A code-searching tool similar to ack but faster, https://github.com/ggreer/the_silver_searcher
 jq, Command-line JSON processor, https://github.com/stedolan/jq
+gdb-macros-for-ruby, GDB macros for Ruby processes inspection, https://github.com/michaelklishin/gdb-macros-for-ruby
