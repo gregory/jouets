@@ -29,3 +29,4 @@ the_silver_searcher, A code-searching tool similar to ack but faster, https://gi
 jq, Command-line JSON processor, https://github.com/stedolan/jq
 gdb-macros-for-ruby, GDB macros for Ruby processes inspection, https://github.com/michaelklishin/gdb-macros-for-ruby
 sysdig, Linux system exploration and troubleshooting tool with first class support for containers, https://github.com/draios/sysdig
+osquery, SQL powered operating system instrumentation monitoring and analytics., https://github.com/facebook/osquery
