@@ -117,3 +117,4 @@ administrate, A Rails engine that helps you put together a super-flexible admin 
 stoplight, Traffic control for code, https://github.com/orgsync/stoplight
 toxiproxy, A proxy to simulate network and system conditions http://toxiproxy.io, https://github.com/shopify/toxiproxy
 zipkin-tracer, zipkin-tracer middleware, https://github.com/mszenher/zipkin-tracer
+clamp, Ruby command-line application framework, https://github.com/mdub/clamp
