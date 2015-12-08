@@ -7,3 +7,4 @@ vulcand, Programmatic load balancer backed by Etcd https://vulcand.io, https://g
 mattermost, Open source Slack-alternative in Golang and React, https://github.com/mattermost/platform
 docker-zipkin, Docker images for OpenZipkin, https://github.com/openzipkin/docker-zipkin
 docker-route53-dyndns, Automated DynDNS for Docker containers using docker-gen and Route53, https://github.com/hmalphettes/docker-route53-dyndns
+kontena, Docker Container Orchestration Platform, https://github.com/kontena/kontena
