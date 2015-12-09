@@ -32,3 +32,4 @@ sysdig, Linux system exploration and troubleshooting tool with first class suppo
 osquery, SQL powered operating system instrumentation monitoring and analytics., https://github.com/facebook/osquery
 toxiproxy, A proxy to simulate network and system conditions , https://github.com/Shopify/toxiproxy
 Comcast, Simulating shitty network connections so you can build better systems.,https://github.com/tylertreat/Comcast
+spark, charts in your shell, https://github.com/holman/spark
