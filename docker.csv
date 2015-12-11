@@ -8,3 +8,5 @@ mattermost, Open source Slack-alternative in Golang and React, https://github.co
 docker-zipkin, Docker images for OpenZipkin, https://github.com/openzipkin/docker-zipkin
 docker-route53-dyndns, Automated DynDNS for Docker containers using docker-gen and Route53, https://github.com/hmalphettes/docker-route53-dyndns
 kontena, Docker Container Orchestration Platform, https://github.com/kontena/kontena
+docket, Custom docker registry that allows for lightning fast deploys through bittorrent ,https://github.com/netvarun/docket
+wagl, DNS Service Discovery for Docker Swarm, https://github.com/ahmetalpbalkan/wagl
