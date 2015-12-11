@@ -19,3 +19,4 @@ bookmark of libs and gems i like
 * [http API style guide](https://github.com/gocardless/http-api-design)
 * [A list of SaaS, PaaS and IaaS offerings that have free tiers for devops and infradev](https://github.com/ripienaar/free-for-dev)
 * [Fast API Swagger & mockup](http://playground.apistudio.io/)
+* [awesome docker](https://github.com/veggiemonk/awesome-docker)
