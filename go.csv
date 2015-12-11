@@ -1,0 +1,2 @@
+name, description, git
+termui, Golang terminal dashboard, https://github.com/gizak/termui
