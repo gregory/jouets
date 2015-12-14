@@ -10,3 +10,4 @@ docker-route53-dyndns, Automated DynDNS for Docker containers using docker-gen a
 kontena, Docker Container Orchestration Platform, https://github.com/kontena/kontena
 docket, Custom docker registry that allows for lightning fast deploys through bittorrent ,https://github.com/netvarun/docket
 wagl, DNS Service Discovery for Docker Swarm, https://github.com/ahmetalpbalkan/wagl
+dockdash, interactive docker stats dashboard based on termui, https://github.com/byrnedo/dockdash
