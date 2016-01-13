@@ -119,3 +119,4 @@ toxiproxy, A proxy to simulate network and system conditions http://toxiproxy.io
 zipkin-tracer, zipkin-tracer middleware, https://github.com/mszenher/zipkin-tracer
 clamp, Ruby command-line application framework, https://github.com/mdub/clamp
 facets, Ruby Facets is the premiere collection of general purpose method extensions and standard additions for the Ruby programming language, https://github.com/rubyworks/facets
+ost, Redis based queues and workers, https://github.com/soveran/ost
