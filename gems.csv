@@ -121,3 +121,4 @@ clamp, Ruby command-line application framework, https://github.com/mdub/clamp
 facets, Ruby Facets is the premiere collection of general purpose method extensions and standard additions for the Ruby programming language, https://github.com/rubyworks/facets
 ost, Redis based queues and workers, https://github.com/soveran/ost
 rollout, Feature flippers, https://github.com/FetLife/rollout
+wongi-engine, A rule engine written in Ruby, https://github.com/ulfurinn/wongi-engine
