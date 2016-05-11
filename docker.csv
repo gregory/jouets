@@ -11,3 +11,4 @@ kontena, Docker Container Orchestration Platform, https://github.com/kontena/kon
 docket, Custom docker registry that allows for lightning fast deploys through bittorrent ,https://github.com/netvarun/docket
 wagl, DNS Service Discovery for Docker Swarm, https://github.com/ahmetalpbalkan/wagl
 dockdash, interactive docker stats dashboard based on termui, https://github.com/byrnedo/dockdash
+mantl,Mantl is a modern platform for rapidly deploying globally distributed services  ,https://github.com/CiscoCloud/mantl
