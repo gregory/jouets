@@ -33,3 +33,4 @@ osquery, SQL powered operating system instrumentation monitoring and analytics.,
 toxiproxy, A proxy to simulate network and system conditions , https://github.com/Shopify/toxiproxy
 Comcast, Simulating shitty network connections so you can build better systems.,https://github.com/tylertreat/Comcast
 spark, charts in your shell, https://github.com/holman/spark
+direnv, Unclutter your .profile ,https://github.com/direnv/direnv
